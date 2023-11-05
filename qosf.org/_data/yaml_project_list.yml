@@ -6,6 +6,9 @@
     url: https://github.com/aws/amazon-braket-sdk-python
   - description: Framework for creating, editing, and invoking Noisy Intermediate
       Scale Quantum (NISQ) circuits.
+    name: bosonic-qiksit
+    url: https://github.com/C2QA/bosonic-qiskit
+  - description: Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative.
     name: Cirq
     url: https://github.com/quantumlib/Cirq
   - description: '[Rigetti](https://www.rigetti.com/)''s software library for writing,
